@@ -45,7 +45,7 @@ This project develops a Convolutional Neural Network (CNN) model to detect gravi
   - Noise: Precision=1.00, Recall=0.89, F1=0.94.
   - Signal: Precision=0.90, Recall=1.00, F1=0.95.
   - Observations: Good signal detection (no false negatives), but some false positives for noise. Training loss showed spikes.
-- **Recommendations**: Switching to a 2D CNN with spectrogram inputs could improve accuracy to ~95–98% by capturing frequency-time patterns.
+- **Future Scope**: Switching to a 2D CNN with spectrogram inputs could improve accuracy to ~95–98% by capturing frequency-time patterns.
 
 ### Dependencies
 - Python 3.x
